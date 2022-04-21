@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.segment {
+  width: 2%;
+  height: 2%;
+  background-color: black;
+  position: absolute;
+}
